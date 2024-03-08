@@ -1,0 +1,29 @@
+#table1,#table2{
+     width:500px;
+     height:500px;
+     text-align:center;
+     background-color: darksalmon; 
+    
+     border-width:3px;
+     border:6px double rgb(21, 22, 21);
+      /* box-shadow:3px 3px #C0C0C0;  */
+}
+div{
+   display:flex;
+    flex-direction: column;
+    align-items:center;
+    gap:30px;
+}
+tr,td,th,table{
+  
+    border:2px solid black;
+    border-collapse: collapse;
+    color:rgb(17, 16, 118);
+}
+body{
+    background-color:gainsboro;
+    background-image:url('https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
