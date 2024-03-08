@@ -1,0 +1,25 @@
+.img1{
+    width:300px;
+    height:200px;
+    box-shadow:5px 5px 5px rgb(0, 1, 1);
+}
+.par1{
+    float:right;
+    width:75%;
+    margin:10px;
+    font-family: "Poppins", sans-serif;
+   
+}
+.par{
+    font-family: "Poppins", sans-serif;
+   
+}
+.img2{
+   float:right;
+   width:300px;
+   height:200px;
+   box-shadow:-5px -5px 5px rgb(7, 7, 8);
+}
+body{
+    background-image:linear-gradient(to right,rgb(168, 214, 236),rgb(180, 127, 166));
+}
